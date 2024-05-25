@@ -7,3 +7,6 @@
 // Such as Elite-C v3, but not v3.1 on. Also apparently some ProMicro boards.
 // For those boands, use usb detection instead.
 // #define SPLIT_USB_DETECT
+
+// #undef SPLIT_HAND_MATRIX_GRID
+// #define MASTER_LEFT
